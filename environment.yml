@@ -1,4 +1,4 @@
-  name: instock-env
+name: instock-env
 channels:
  - conda-forge
 dependencies:
