@@ -10,6 +10,7 @@ dependencies:
  -bokeh==3.6.2
  -PyMySQL==1.1.1
  -requests==2.32.3
+ -TA_Lib==0.6.1
  -Logbook==1.8.0
  -SQLAlchemy==2.0.37
  -tornado==6.4.2
